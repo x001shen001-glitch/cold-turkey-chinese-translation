@@ -33,4 +33,4 @@ Cold Turkey Blocker 4.9 的完整中文翻译，基于英文原版制作。
 ## 参考
 
 - 基于 Cold Turkey Blocker 4.9 英文原版
-- 翻译风格参考 4.5 版本汉化
+- 翻译风格参考 [xiegen2020/cold-turkey-chinese](https://github.com/xiegen2020/cold-turkey-chinese) 的 4.5 版本汉化，特此致谢
