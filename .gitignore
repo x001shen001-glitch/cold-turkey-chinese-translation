@@ -1,12 +1,3 @@
-# Cold Turkey 应用二进制文件
-Cold Turkey/*.exe
-Cold Turkey/*.dll
-Cold Turkey/*.pdb
-Cold Turkey/*.dat
-Cold Turkey/runtimes/
-Cold Turkey/licenses/
-
-# 系统文件
 Thumbs.db
 Desktop.ini
 .DS_Store
